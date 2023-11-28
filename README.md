@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React TypeScript Form Application
 
 This is a basic React application with a form that includes various input fields and validations. It is built using TypeScript and utilizes the react-hook-form library for form handling.
@@ -63,3 +64,6 @@ This will start the container and bind port 3000 of the container to port 3000 o
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+=======
+# BigDataProject
+>>>>>>> b9daac6061124a701d9974d9c088f64b0dba9e34
